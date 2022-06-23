@@ -1,0 +1,17 @@
+
+##### Core scientific packages
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+
+##### Machine Learning packages
+sklearn
+nltk
+
+
+#other
+beautifulsoup4
+seaborn
+wordcloud
