@@ -16,9 +16,8 @@ https://colab.research.google.com/drive/1dkb8SOHsojtZh-QRE7OuZcBjMkk34ytk#scroll
 
 Here, I payed more attention on data, and find a way to reduce false-positive result in a half
 
-Before:
-<img width="339" alt="image" src="https://user-images.githubusercontent.com/988301/175221768-10e97227-5358-4aa4-bce4-5255ccfda87d.png">
+| Before | After |
+|:---:|:---:|
+| <img width="339" alt="image" src="https://user-images.githubusercontent.com/988301/175221768-10e97227-5358-4aa4-bce4-5255ccfda87d.png">|<img width="354" alt="image" src="https://user-images.githubusercontent.com/988301/175221839-e9b50935-8a42-4015-abc4-30d27adadf70.png">|
 
-After:
-<img width="354" alt="image" src="https://user-images.githubusercontent.com/988301/175221839-e9b50935-8a42-4015-abc4-30d27adadf70.png">
 
